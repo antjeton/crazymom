@@ -1,0 +1,24 @@
+h1{color:purple;
+   font-size 60px;
+ }
+Body{
+
+
+    text-align: center;
+    background-image: url("https://thumbs.dreamstime.com/b/blue-purple-nebula-10617223.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  h2{
+    font-size:40px;
+    color:white;
+    }
+p{
+  font-size:30px;
+  color:yellow;
+}
+img#rat{opacity:0.5}
+p#nuts{color:red}
+P#crazy{color:lime}
+.list{color:black;
+      font-size:30px}
