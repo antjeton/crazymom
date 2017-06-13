@@ -35,3 +35,20 @@ P#crazy{color:lime}
          justify-content:flex-end;
         background:white;
         margin-top:20px;}
+
+
+.listwrapper {display:flex;
+              justify-content: center;}
+
+
+.todo{ display:flex;
+      justify-content:center;}
+
+.title {display:flex;
+        color:yellow;
+        font-size:20px;
+      margin-bottom:40px;}
+
+  .todolist{display:flex;}
+
+.list{display:inline-flex;}
