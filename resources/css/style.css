@@ -21,4 +21,17 @@ img#rat{opacity:0.5}
 p#nuts{color:red}
 P#crazy{color:lime}
 .list{color:black;
+
       font-size:30px}
+
+.fullwidth{
+           display:flex;}
+
+.flexcontainer{display:flex;
+               justify-content:flex-end;
+               width:960px;}
+
+.content{display:flex;
+         justify-content:flex-end;
+        background:white;
+        margin-top:20px;}
