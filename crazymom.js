@@ -1,3 +1,4 @@
+alert("we are all crazy here");
 
 function calc(){
 var w =document.getElementbyId("width").value;
