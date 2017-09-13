@@ -1,9 +1,15 @@
+
+header{background-color:white;
+       color:black;
+       height:40px;
+       width:100%;}
+
 h1{color:purple;
    font-size 60px;
  }
-Body{
-
-
+Body{}
+.outerwrapper{
+    width:960px;
     text-align: center;
     background-image: url("https://thumbs.dreamstime.com/b/blue-purple-nebula-10617223.jpg");
     background-repeat: no-repeat;
@@ -17,7 +23,10 @@ p{
   font-size:30px;
   color:yellow;
 }
-img#rat{opacity:0.5}
+form{
+     background-color:white;
+     color:red;
+}
 p#nuts{color:red}
 P#crazy{color:lime}
 .list{color:black;
